@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.deps.json
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.runtimeconfig.json
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.dll
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.Tests.pdb
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.dll
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/bin/Debug/netcoreapp2.2/ScrabbleScore.pdb
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.dll
+/Users/Guest/Desktop/scrabble-score/ScrabbleScore.Tests/obj/Debug/netcoreapp2.2/ScrabbleScore.Tests.pdb
