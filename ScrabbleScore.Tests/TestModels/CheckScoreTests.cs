@@ -39,5 +39,13 @@ namespace ScrabbleScore.TestTools
       testCheckScore.CalculateScore();
       Assert.AreEqual(56, testCheckScore.GetUserScore());
     }
+    [TestMethod]
+    public void CalculateScore_TestSpecialChar()
+    {
+      string testString = "!test!";
+      CheckScore testCheckScore = new CheckScore(testString);
+      testCheckScore.CalculateScore();
+      Assert.AreEqual(4, testCheckScore.GetUserScore());
+    }
   }
 }

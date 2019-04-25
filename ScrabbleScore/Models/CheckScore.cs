@@ -42,7 +42,10 @@ namespace ScrabbleScore.Models
       string upperInput = UserInput.ToUpper();
       for(int i = 0; i < upperInput.Length; i++)
       {
-        UserScore += ScoreGet[upperInput[i]];
+        if(ScoreGet.ContainsKey(upperInput[i]))
+        {
+          UserScore += ScoreGet[upperInput[i]];
+        }
       }
     }
   }
